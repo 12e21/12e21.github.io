@@ -33,7 +33,7 @@ You can find my CV here: [Bingqian Wu's Curriculum Vitae](../assets/Curriculum_V
 - Second Prize in the 2024 China Robot Competition and ROBOCUP Robot World Cup China Drone Challenge
 
 ## Projects
-### MMreifne
+### 1. MMreifne
 During my research internship at the **ASGO Laboratory** of Northwestern Polytechnical University, I focused on advancing **3D object detection**. Here, I independently designed and implemented the **MMrefine framework**, which significantly enhanced the performance of 3D object detection. This framework employs a multi-branch and multi-stage refinement approach to address issues related to uneven point cloud distribution and incomplete point clouds. 
 
 The effectiveness of MMrefine was demonstrated through significant improvements on the **KITTI dataset**, one of the most renowned benchmarks for evaluating autonomous driving technologies. The research findings have been submitted for publication in the esteemed **IEEE Robotics and Automation Letters (RAL)** journal, highlighting the innovative nature and impact of this work.
@@ -42,7 +42,7 @@ Here is the [code](https://github.com/12e21/MMrefine).
 
 ![MMrefine_pipeline](./images/projects/MMrefine_pipeline.png)
 
-### Drone-Based Parcel Delivery Project
+### 2. Drone-Based Parcel Delivery Project
 
 In the **Drone-Based Parcel Delivery** project, I took the lead in developing the software strategies essential for the drone's autonomous operations. Utilizing **ROS (Robot Operating System)** alongside the **MAVROS PX4** interface, I implemented key functionalities including autonomous flight, path planning, and obstacle avoidance mechanisms. These capabilities were crucial for ensuring the drone could navigate efficiently and safely to its destination.
 
@@ -52,7 +52,7 @@ Since the code is for a competition, I cannot publish the code.
 
 ![uav_deliver](./images/projects/uav_deliver.png)
 
-### Multi-Drone Simulation for Target Tracking Project
+### 3. Multi-Drone Simulation for Target Tracking Project
 
 As the **Project Leader** in the **Multi-Drone Simulation for Target Tracking** project, I designed and implemented a comprehensive multi-drone cooperative target tracking framework. This framework integrates several advanced technologies to achieve effective, precise, and sustainable target tracking.
 
@@ -67,7 +67,7 @@ Since the code is for a competition, I cannot publish the code.
 
 ![uav_track](./images/projects/uav_track.png)
 
-### LLM-Controlled Drone Project
+### 4. LLM-Controlled Drone Project
 
 In the **LLM-Controlled Drone** project, I designed a **state machine-based task execution system** that translates natural language commands into actionable drone operations. This innovative approach leverages a **task command set** and integrates with large language models (LLMs) via **LangChain** to bridge the gap between human instructions and drone actions.
 
