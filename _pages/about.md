@@ -38,9 +38,9 @@ During my research internship at the **ASGO Laboratory** of Northwestern Polytec
 
 The effectiveness of MMrefine was demonstrated through significant improvements on the **KITTI dataset**, one of the most renowned benchmarks for evaluating autonomous driving technologies. The research findings have been submitted for publication in the esteemed **IEEE Robotics and Automation Letters (RAL)** journal, highlighting the innovative nature and impact of this work.
 
-Here is the [code](https://github.com/12e21/MMrefine.png).
+Here is the [code](https://github.com/12e21/MMrefine).
 
-![MMrefine_pipeline](./images/projects/MMrefine_pipeline)
+![MMrefine_pipeline](./images/projects/MMrefine_pipeline.png)
 
 ### Drone-Based Parcel Delivery Project
 
