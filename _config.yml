@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Bingqian Wu / Personal Homepage"
+title                    : "Bingqian Wu (吴秉谦)"
 title_separator          : "-"
 name                     : &name "Bingqian Wu"
 description              : &description "a third year undergraduate student from Northwestern Polytechnical University"
@@ -25,17 +25,17 @@ author:
   avatar           : "wbq.png"
   name             : "Bingqian Wu"
   pronouns         : # example: "she/her"  
-  bio              : "Northwestern Polytechnical University"
-  location         : "Xi'an, Shanxi, China"
-  employer         : # "Red Brick University"
+  bio              : # "Westlake University"
+  location         : "Hangzhou, China"
+  employer         : "Westlake University"
   uri              : # URL
-  email            : "2496813401@qq.com" 
+  email            : "wubingqian2004@qq.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0009-0007-9894-8017"
+  orcid            : # "https://orcid.org/0009-0007-9894-8017"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL

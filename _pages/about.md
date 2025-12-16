@@ -6,15 +6,18 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am an undergraduate student from Northwestern Polytechnical University, and I will begin my PhD studies in Fall 2026 at Shanghai Innovation Institute.
 
-I'm a third year undergraduate student from [School of Cyber Security](https://wlkjaqxy.nwpu.edu.cn/), [Northwestern Polytechnical University](https://www.nwpu.edu.cn/).
-My research interest includes 3D Vsion, Embodied AI, Robotics.
+I am currently a visiting student at Westlake University, advised by [Prof. Xiangru Huang](https://en.westlake.edu.cn/faculty/xiangru-huang.html).
+Previously, I was a research intern at the [ASGO Lab](https://asgo.nwpu.edu.cn/) at Northwestern Polytechnical University, where I was advised by [Prof. Jiaqi Yang](https://yangjiaqihomepage.github.io/).
 
-I am very fortunate to be advised by [Prof. Jiaqi Yang](https://yangjiaqihomepage.github.io/) of [ASGO Lab](https://asgo.nwpu.edu.cn/) from School of Computer Science, Northwestern Polytechnical University.
+My long-term research goal is to build general-purpose embodied intelligence that can generalize across arbitrary environments and tasks.
+Currently, my research interests focus on generative world models and VLA models.
 
-You can find my CV here: [Bingqian Wu's Curriculum Vitae](../assets/Curriculum_Vitae.pdf)
+I am actively seeking research internships in generative visual models and robot learning, here is my [CV](../assets/Curriculum_Vitae.pdf). 
 
-[Email](mailto:2496813401@qq.com) / [Github](https://github.com/12e21) / [Wechat](../images/wechat.jpg)
+Feel free to reach out to me:
+[Email](mailto:wubingqian2004@qq.com) / [Wechat](../images/wechat.jpg)
 
 ## Experience
 - 2022.09-present, Undergraduate, School of Cyber Security, Northwestern Polytechnic University, Xi’an, Shaanxi Province, China.
